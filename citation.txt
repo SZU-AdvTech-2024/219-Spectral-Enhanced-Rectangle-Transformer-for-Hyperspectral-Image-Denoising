@@ -1,0 +1,6 @@
+@inproceedings{REPO219,
+    author = "Li, Miaoyu and Liu, Ji and Fu, Ying and Zhang, Yulun and Dou, Dejing",
+    booktitle = "CVPR",
+    title = "{Spectral Enhanced Rectangle Transformer for Hyperspectral Image Denoising}",
+    year = "2023"
+}
